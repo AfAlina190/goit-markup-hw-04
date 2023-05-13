@@ -367,6 +367,7 @@ a {
 }
 .main-section-tools {
   background-repeat: no-repeat;
+  max-width: 1440px;
   background-position: center;
   background-size: cover;
   background-image: linear-gradient(
@@ -595,4 +596,11 @@ a {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+}
+.footer-list-gap {
+  gap: 16px;
+}
+.social-list-icon-tools:hover,
+.social-list-icon-tools:focus {
+  background-color: #31d0aa;
 }
