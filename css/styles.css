@@ -572,6 +572,13 @@ a {
   border-bottom: 1px solid #e7e9fc;
 }
 /* =======footer index======= */
+/* 
+}
+
+.footer-p-social {
+  
+} */
+/* =====footer portfolio==== */
 .footer-flex {
   display: flex;
   align-items: baseline;
@@ -580,6 +587,8 @@ a {
   margin-right: 120px;
 }
 .footer-p-social {
+  display: block;
+  box-sizing: border-box;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
