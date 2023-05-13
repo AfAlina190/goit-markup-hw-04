@@ -367,7 +367,7 @@ a {
 }
 .main-section-tools {
   background-repeat: no-repeat;
-  max-width: 1440px;
+  /* max-width: 1440px; */
   background-position: center;
   background-size: cover;
   background-image: linear-gradient(
