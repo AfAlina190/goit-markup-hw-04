@@ -58,7 +58,7 @@ a {
 }
 
 /*  ====================Body-page===================== */
-.page {
+.body {
   font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -368,6 +368,8 @@ a {
 .main-section-tools {
   background-repeat: no-repeat;
   max-width: 1440px;
+  height: 600px;
+  margin: 0 auto;
 
   background-position: center;
   background-size: cover;
@@ -436,6 +438,7 @@ a {
 }
 .employees-position {
   text-align: center;
+  margin: 8px;
 }
 .social-list {
   display: flex;
@@ -502,8 +505,6 @@ a {
 }
 .portfolio-link-list:hover,
 .portfolio-link-list:focus {
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
 }
